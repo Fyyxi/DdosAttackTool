@@ -15,7 +15,7 @@ The DDoS Attack Tool is a simple graphical application built using PyQt5 for lau
 To install and run the DDoS Attack Tool, follow these steps:
 
 1. **Clone the Repository:**
-git clone https://github.com/yourusername/ddos-attack-tool.git
+git clone https://github.com/Fyyxi/DdosAttackTool)
 
 
 2. **Navigate to the Project Directory:**
