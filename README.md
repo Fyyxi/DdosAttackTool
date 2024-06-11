@@ -19,7 +19,7 @@ git clone https://github.com/Fyyxi/DdosAttackTool
 
 
 2. **Navigate to the Project Directory:**
-cd ddos-attack-tool
+cd DdosAttackTool
 
 3. **Install Dependencies:**
 pip install -r requirements.txt
